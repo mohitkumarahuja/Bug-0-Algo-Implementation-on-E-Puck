@@ -1,0 +1,7 @@
+This project was made for Autonomous robotics course.
+
+For the Problem given to us which was to implement any of the BUG algo's, We implemented BUG 0 algorithm.
+
+The code is being pasted in a text file to have a quick look on it.
+
+Thank you.
